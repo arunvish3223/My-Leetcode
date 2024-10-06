@@ -21,5 +21,3 @@ class Solution:
             if res[1]==nums[i]:
                 g.append(i)
         return sorted(set(g))
-
-        
