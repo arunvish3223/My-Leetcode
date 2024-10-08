@@ -1,9 +1,19 @@
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
-        while students and sandwiches[0] in students:
-            if students[0] == sandwiches[0]:
-                students.pop(0)
-                sandwiches.pop(0)
+        res = len(students)
+        dict1 = {}
+
+        for i in students:
+            if i not in dict1:
+                dict1[i] = 1
             else:
-                students.append(students.pop(0))
-        return len(students)
+                dict1[i] += 1
+
+        for s in sandwiches:
+            if dict1.get(s, 0) > 0:
+                res -= 1
+                dict1[s] -= 1
+            else:
+                break
+
+        return res
