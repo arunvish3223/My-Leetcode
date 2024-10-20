@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -32,6 +33,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
@@ -51,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
