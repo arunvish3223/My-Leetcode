@@ -87,4 +87,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
+| [1054-complement-of-base-10-integer](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
