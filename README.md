@@ -58,6 +58,7 @@
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1965-sum-of-digits-in-base-k](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Design
 |  |
 | ------- |
