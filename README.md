@@ -73,14 +73,17 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Recursion
 |  |
 | ------- |
