@@ -18,6 +18,7 @@
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
+| [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -73,16 +74,19 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 ## Recursion
 |  |
@@ -97,5 +101,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
