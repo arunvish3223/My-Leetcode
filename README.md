@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -126,5 +128,14 @@
 ## Sorting
 |  |
 | ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
