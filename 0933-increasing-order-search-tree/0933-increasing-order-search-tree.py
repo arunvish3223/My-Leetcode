@@ -14,8 +14,8 @@ class Solution:
             h.append(root.val)
             inorderTraversal(root.right)
         inorderTraversal(root)
-        h=sorted(h)
-        dummy=TreeNode(0)
+        #h=sorted(h)
+        dummy=TreeNode()
         tpt=dummy
         for i in range(len(h)):
             dummy.right=TreeNode(h[i])
