@@ -33,6 +33,7 @@
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
+| [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -81,6 +82,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -90,6 +92,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -100,6 +103,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
+| [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -138,4 +142,8 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
