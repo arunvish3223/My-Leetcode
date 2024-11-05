@@ -6,18 +6,17 @@
 #         self.right = right
 class Solution:
     def increasingBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        h=[]
-        def inorderTraversal(root):
-            if root is None:
-                return
-            inorderTraversal(root.left)
-            h.append(root.val)
-            inorderTraversal(root.right)
-        inorderTraversal(root)
-        #h=sorted(h)
-        dummy=TreeNode()
+        stk=[]
+        dummy=TreeNode(0)
         tpt=dummy
-        for i in range(len(h)):
-            dummy.right=TreeNode(h[i])
-            dummy=dummy.right
-        return tpt.right
+        while stk or root:
+            while root:
+                stk.append(root)
+                root =root.left
+            root =stk.pop()
+            tpt.right=root
+            tpt=tpt.right
+            root = root.right
+            tpt.left=None
+        return dummy.right
+
