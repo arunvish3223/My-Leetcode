@@ -82,6 +82,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
@@ -105,6 +107,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
