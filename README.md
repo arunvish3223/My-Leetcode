@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0191-number-of-1-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Backtracking
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
