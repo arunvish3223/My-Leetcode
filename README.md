@@ -66,6 +66,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -120,12 +121,14 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Backtracking
