@@ -120,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
