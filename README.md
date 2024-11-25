@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -158,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
