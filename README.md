@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1955-seat-reservation-manager](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -183,4 +184,8 @@
 | [0002-add-two-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1955-seat-reservation-manager](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1955-seat-reservation-manager) |
 <!---LeetCode Topics End-->
