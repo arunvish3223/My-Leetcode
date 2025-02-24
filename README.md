@@ -59,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -79,11 +80,13 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1955-seat-reservation-manager](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Tree
 |  |
@@ -161,6 +164,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search
@@ -194,6 +198,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1955-seat-reservation-manager](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1955-seat-reservation-manager) |
 ## Union Find
 |  |
