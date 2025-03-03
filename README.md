@@ -62,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -205,6 +206,7 @@
 | [0002-add-two-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0086-partition-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
