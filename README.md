@@ -12,6 +12,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2035-count-sub-islands) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
