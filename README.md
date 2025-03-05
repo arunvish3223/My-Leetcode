@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
+| [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
+| [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -30,6 +32,7 @@
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -172,6 +175,7 @@
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
+| [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [2035-count-sub-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
