@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1940-maximum-xor-for-each-query](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
