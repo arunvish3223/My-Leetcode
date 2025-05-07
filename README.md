@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -36,6 +37,7 @@
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
+| [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -72,11 +74,13 @@
 | ------- |
 | [0086-partition-list](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
