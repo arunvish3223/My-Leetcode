@@ -91,6 +91,7 @@
 | [0067-add-binary](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0231-power-of-two) |
+| [0441-arranging-coins](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1965-sum-of-digits-in-base-k](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
+| [0441-arranging-coins](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
