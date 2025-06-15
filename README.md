@@ -10,6 +10,7 @@
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -51,6 +53,7 @@
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
+| [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -246,4 +249,8 @@
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
 | [2035-count-sub-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2035-count-sub-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
