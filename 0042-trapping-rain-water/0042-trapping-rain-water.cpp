@@ -2,6 +2,7 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
+        if(n == 0) return 0;
         vector<int> lge(n), rge(n);
         lge[0] = height[0];
         for(int i = 1; i < n; i++) {
