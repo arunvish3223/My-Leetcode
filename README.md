@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
+| [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -210,6 +212,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -246,11 +249,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0463-island-perimeter) |
 | [2035-count-sub-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
