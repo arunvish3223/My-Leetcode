@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0224-basic-calculator) |
@@ -77,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
@@ -212,6 +215,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
@@ -256,6 +260,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
