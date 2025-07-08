@@ -16,7 +16,6 @@ public:
     void solve(int row, int n, vector<string>& board, vector<vector<string>>& ans) {
         if (row == n) {
             ans.push_back(board);
-            return;
         }
         for (int col = 0; col < n; col++) {
             if (isSafe(board, row, col, n)) {
