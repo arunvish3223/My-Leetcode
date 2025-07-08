@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
