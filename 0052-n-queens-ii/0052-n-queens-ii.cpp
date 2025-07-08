@@ -13,9 +13,9 @@ bool isSafe(vector<string>& board, int row, int col, int n) {
         return true;
     }
 
-    void solve(int row, int n, vector<string>& board, vector<vector<string>>& ans) {
+    void solve(int row, int n, vector<string>& board, int& ans) {
         if (row == n) {
-            ans.push_back(board);
+            ans++;
         }
         for (int col = 0; col < n; col++) {
             if (isSafe(board, row, col, n)) {
@@ -26,10 +26,10 @@ bool isSafe(vector<string>& board, int row, int col, int n) {
         }
     }
     int totalNQueens(int n) {
-        vector<vector<string>> ans;
+        int ans=0;
         vector<string> board(n, string(n, '.'));
         solve(0, n, board, ans);
-        return ans.size();
+        return ans;
         
     }
 };
