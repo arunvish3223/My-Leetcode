@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0800-letter-case-permutation) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
