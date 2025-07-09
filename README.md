@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0807-custom-sort-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -44,6 +45,7 @@
 | [0753-open-the-lock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0800-letter-case-permutation) |
+| [0807-custom-sort-string](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0807-custom-sort-string](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0807-custom-sort-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search
