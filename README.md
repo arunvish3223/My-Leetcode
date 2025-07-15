@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0200-number-of-islands) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
