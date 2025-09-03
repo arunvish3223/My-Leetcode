@@ -50,6 +50,7 @@
 | [0800-letter-case-permutation](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0800-letter-case-permutation) |
 | [0807-custom-sort-string](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0977-distinct-subsequences-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -231,6 +232,7 @@
 | [0221-maximal-square](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0518-coin-change-ii) |
+| [0977-distinct-subsequences-ii](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/0977-distinct-subsequences-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ArunVishwakarmaAV/My-Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search Tree
 |  |
